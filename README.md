@@ -1,4 +1,4 @@
-Ultimate Web Scraper Toolkit
+Ultimate Web Scraper Toolkit - Pruebas con fragrantica.es
 ============================
 
 A PHP library of tools designed to handle all of your web scraping needs under a MIT or LGPL license.  This toolkit easily makes RFC-compliant web requests that are indistinguishable from a real web browser, has a web browser-like state engine for handling cookies and redirects, and a full cURL emulation layer for web hosts without the PHP cURL extension installed.  The powerful tag filtering library TagFilter is included to easily extract the desired content from each retrieved document or used to process HTML documents that are offline.
